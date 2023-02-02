@@ -1,0 +1,11 @@
+/* .reusable-cmp-images{
+    width: 100%;
+    height: 100%;
+} */
+.reusable-cmp-mian-div{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size:100%;
+}

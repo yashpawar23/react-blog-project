@@ -1,0 +1,29 @@
+.home-page-banner {
+    display: flex;
+    height: 400px;
+    margin-top: 60px;
+}
+
+.home-page-banner-left {
+    width: 55%;
+    margin: 12px;
+}
+
+.home-page-banner-right {
+    width: 40%;
+    margin: 12px;
+}
+
+.banner-right-top {
+    height: 50%;
+
+}
+
+.banner-right-bottom {
+    height: 50%;
+
+}
+
+.bollywood-flex {
+    display: flex;
+}
